@@ -1,0 +1,9 @@
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\bin\Debug\BIllsTheOG.exe
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\bin\Debug\BIllsTheOG.pdb
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.csprojAssemblyReference.cache
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.Form1.resources
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.Properties.Resources.resources
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.csproj.GenerateResource.cache
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.csproj.CoreCompileInputs.cache
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.exe
+C:\Users\devli\source\repos\CRACK - ME\BIllsTheOG\obj\Debug\BIllsTheOG.pdb
