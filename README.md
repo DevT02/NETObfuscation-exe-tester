@@ -42,3 +42,7 @@ Notes: naming of these vars should not be an issue, an obfuscator that does not 
 
 # "Check Key?" Bruh I thought you said this was for testing obfuscation..
 You could theoretically change the key at any point in vs or dnspy, it's only in there for cracking purposes (the key tests obfuscation by challenging the reverser for them to try and get it). The main rule of thumb is that if your key is cracked, its a guarantee that your assembly can be reversed, so most people eventually stop looking at your assembly after grabbing it.
+
+If im not mistaken, the current key is: Ehsduyua782637⚈^Ƿ7ą\ud83d\ude4eƌ♎EHUDjwbnHiudejwhdijin\ud83d\ude08ãEHUDjwbnHiudejwhdijinç¡♕♱ƥńeÃȔŅ⚐`☘X)EHUDjwbnHiudejwhdijinŵmkpnfduwiobdsahfFY#EHUDjwbnHiudejwhdijin;oaidoh
+
+(Note that because of emojis, dnspy is unable to display them, so you will have to edit IL instructions and copy the ldstr to get this string, or you could just use the source code).
