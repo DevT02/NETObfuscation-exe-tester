@@ -41,4 +41,4 @@ C#:
 Notes: naming of these vars should not be an issue, an obfuscator that does not rename has a mental problem.
 
 # "Check Key?" Bruh I thought you said this was for testing obfuscation..
-You could theoretically change the key at any point in vs or dnspy, it's only in there for cracking purposes (the key tests obfuscation by challenging the reverser for them to try and get it). The main rule of thumb is that if your key is cracked, its a guarantee that your assembly can be reversed, so most people eventually stop looking at your assembly afterwards.
+You could theoretically change the key at any point in vs or dnspy, it's only in there for cracking purposes (the key tests obfuscation by challenging the reverser for them to try and get it). The main rule of thumb is that if your key is cracked, its a guarantee that your assembly can be reversed, so most people eventually stop looking at your assembly after grabbing it.
