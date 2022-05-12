@@ -1,4 +1,4 @@
-# What the hell is this? Do you have anything better to do?
+# What is this?
 This is a simple exe file made for .NET obfuscation to ensure encryption, mutation, protection, or whatever you want to call it of strings/ints/other types is correct.
 
 # The console should print as follows:
@@ -38,9 +38,9 @@ C#:
         public char charVar = 'A';
         public bool boolVar = true;
 ```
-Notes: naming of these vars should not be an issue, an obfuscator that does not rename has a mental problem.
+Notes: naming of these vars should not be an issue..
 
-# "Check Key?" Bruh I thought you said this was for testing obfuscation..
+# "Check Key?"
 You could theoretically change the key at any point in vs or dnspy, it's only in there for cracking purposes (the key tests obfuscation by challenging the reverser for them to try and get it). The main rule of thumb is that if your key is cracked, its a guarantee that your assembly can be reversed, so most people eventually stop looking at your assembly after grabbing it.
 
 If im not mistaken, the current key is: Ehsduyua782637⚈^Ƿ7ą\ud83d\ude4eƌ♎EHUDjwbnHiudejwhdijin\ud83d\ude08ãEHUDjwbnHiudejwhdijinç¡♕♱ƥńeÃȔŅ⚐`☘X)EHUDjwbnHiudejwhdijinŵmkpnfduwiobdsahfFY#EHUDjwbnHiudejwhdijin;oaidoh
